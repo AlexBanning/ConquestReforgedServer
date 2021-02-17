@@ -1,0 +1,67 @@
+{
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2021-02-15 01:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2021-02-15 01:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2021-02-15 01:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2021-02-15 01:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2021-02-15 01:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2021-02-15 01:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2021-02-15 01:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2021-02-15 01:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2021-02-15 01:01:25 +0000",
+      "deep_ocean": "2021-02-15 01:01:34 +0000",
+      "beaches": "2021-02-15 01:01:50 +0000",
+      "desert_hills": "2021-02-15 01:03:39 +0000",
+      "forest_hills": "2021-02-15 01:01:56 +0000",
+      "savanna": "2021-02-15 01:00:55 +0000",
+      "plains": "2021-02-15 01:00:35 +0000",
+      "savanna_rock": "2021-02-15 01:00:57 +0000",
+      "taiga": "2021-02-15 01:02:07 +0000",
+      "taiga_hills": "2021-02-15 01:02:10 +0000",
+      "river": "2021-02-15 01:00:50 +0000",
+      "desert": "2021-02-15 01:03:35 +0000"
+    },
+    "done": false
+  }
+}
